@@ -4,4 +4,6 @@
 
 ## 书籍
 
-- [成为技术领导者:掌握全面解决问题的方法](https://www.amazon.cn/%E6%88%90%E4%B8%BA%E6%8A%80%E6%9C%AF%E9%A2%86%E5%AF%BC%E8%80%85-%E6%8E%8C%E6%8F%A1%E5%85%A8%E9%9D%A2%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95-%E6%9D%B0%E6%8B%89%E5%B0%94%E5%BE%B7%C2%B7%E6%B8%A9%E4%BC%AF%E6%A0%BC/dp/B00Z7D9JHK/)
+- [成为技术领导者:掌握全面解决问题的方法](https://book.douban.com/subject/26419762/)
+- [凤凰项目：一个IT运维的传奇故事](https://book.douban.com/subject/26644070/)
+- [架构即未来：现代企业可扩展的Web架构、流程和组织](https://book.douban.com/subject/26765979/)
